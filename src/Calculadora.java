@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Calculadora {
     public static void main(String[] args) {
         // Crear un objeto Scanner para leer la entrada del usuario
         Scanner scanner = new Scanner(System.in);
