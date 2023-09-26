@@ -4,10 +4,10 @@ public class Calculadora {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Ingresa el primer número entero: ");
+        System.out.print("Añade el primer número: ");
         int numero1 = scanner.nextInt();
 
-        System.out.print("Ingresa el segundo número entero: ");
+        System.out.print("Añade el segundo número: ");
         int numero2 = scanner.nextInt();
 
         int suma = numero1 + numero2;
